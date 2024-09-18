@@ -16,3 +16,5 @@ signpost_yaml:
         Links:
         - Title: ArgoCD
           URL: https://argocd.k8s.sikademo.com
+        - Title: Rancher
+          URL: https://rancher.k8s.sikademo.com
